@@ -1,0 +1,1 @@
+Get-ChildItem -Filter "Week*.ipynb" | ForEach-Object { $weekNum = $_.Name -replace 'Week(\d+).*\.ipynb', '$1'; $newName = "OMDS-ModB2-Week$weekNum-Vishwakarma-Virendra.ipynb"; Rename-Item $_.FullName -NewName $newName -Verbose }
