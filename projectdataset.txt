@@ -1,0 +1,19 @@
+Cancer Diagnostic Modeling
+This project explores machine-learning approaches to cancer diagnosis by combining tabular
+cell-feature data, large-scale patient registries, and histopathological imaging to support tissue
+classification, disease detection, and population-level cancer analysis.
+Datasets Used
+1. Breast Cancer Wisconsin (Diagnostic)
+UCI Machine Learning Repository
+https://doi.org/10.24432/C5DW2B
+2. Cancer Data – Brazil
+Kaggle (Brazilian National Cancer Institute registries)
+https://www.kaggle.com/datasets/joaopedromedeiros/cancer-data-brazil
+3. Metastatic Tissue Classification – PatchCamelyon (PCam)
+Kaggle
+https://www.kaggle.com/datasets/andrewmvd/metastatic-tissue-classification-patchcamelyon
+
+(My choice for analysis)
+4. Lung and Colon Cancer Histopathological Images (LC25000)
+Kaggle
+https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-image
