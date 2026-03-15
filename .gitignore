@@ -1,1 +1,5 @@
 Data/**/*.jpeg
+Data\**.*
+*.jpg
+*.jpeg
+*.txt
